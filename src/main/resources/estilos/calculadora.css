@@ -1,0 +1,28 @@
+.grid-pane {
+    -fx-background-color: rgba(240, 240, 240, 0.69);
+}
+.root{
+    -fx-background-image: url('https://i.pinimg.com/564x/b2/2f/a4/b22fa497f879a11e92af2b626733e803.jpg');
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 99.99%;
+
+
+
+}
+
+    #tfCuadroTexto {
+    -fx-background-color: #ffffff;
+}
+
+.button {
+    -fx-background-color: rgba(255, 255, 255, 0.35);
+    -fx-text-fill: white;
+    -fx-font-size: 18px;
+}
+
+.button:hover {
+
+    -fx-background-color: #a11f8e;
+   }
+

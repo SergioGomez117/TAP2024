@@ -1,0 +1,33 @@
+.root{
+    -fx-background-image: url('https://i.ytimg.com/vi/pqWx4hfQPPU/maxresdefault.jpg'), url('https://i.pinimg.com/736x/59/a1/bd/59a1bde1793f165153c3fc00660b1076.jpg');
+    -fx-background-size: 100%, 200px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center, bottom right ;
+}
+.menu-bar {
+    -fx-background-color: #c8b2b5;
+    -fx-border-color: black;
+    -fx-border-width: 3px;
+}
+.menu{
+    -fx-background-color: pink;
+}
+.label{
+    -fx-background-color: red;
+    -fx-padding: 10pt;
+}
+.menu:hover{
+    -fx-background-color: #8723c2;
+}
+.label:hover{
+    -fx-background-color: #450f48;
+    -fx-font-size: 15pt;
+}
+.menu-item{
+    -fx-background-color: black;
+    -fx-border-color: white;
+}
+.menu-item:hover{
+    -fx-background-color: black;
+    -fx-text-fill: black;
+}
